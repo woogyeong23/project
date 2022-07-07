@@ -8,3 +8,11 @@ public class a {
   
   ///좋아 충돌
 }
+package tttt;
+
+public class a {
+//test
+	//again
+	//new
+	//asdf
+}asdfdds
