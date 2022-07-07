@@ -2,7 +2,5 @@ package tttt;
 
 public class a {
 //test
-	//again
-	//new
-	//asdf
-}asdfd
+  //여기는 okay
+}
