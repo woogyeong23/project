@@ -3,7 +3,9 @@ master
 public class a {
 //test
   //�뿬湲곕뒗 okay
-asdf
+
+merge 전 merge 해보까
+asdfx
 
 완전 충돌
 }
