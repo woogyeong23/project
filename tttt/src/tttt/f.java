@@ -1,5 +1,5 @@
 package tttt;
 
-public class f {
+public class f {n
 master 
 }
