@@ -1,5 +1,5 @@
 package tttt;
 bb 
-public class dd {
-	master  
+public class dd {asdf
+	master 
 }

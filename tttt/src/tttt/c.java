@@ -1,7 +1,7 @@
 package tttt;
-
+ww
 public class c {
 내가 master
-ㅇㄴ
+t
 	new입니다
 }
