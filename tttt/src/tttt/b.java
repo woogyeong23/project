@@ -1,4 +1,4 @@
-package tttt;asdf
+package tttt;as
 
 public class b {
  
