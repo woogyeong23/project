@@ -1,4 +1,4 @@
-package tttt;asdf
+package tttt;asdfasdf
 master
 public class a {
 //test
